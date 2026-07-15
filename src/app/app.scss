@@ -1,21 +1,10 @@
-// Criação de variáveis
+//criação de variáveis
 $cor-principal: #0d6efd;
 $cor-texto: #444;
 
-h1 {
-    color: $cor-principal;
-    text-align: center;
-}
-
-h2 {
-    color: darkgreen;
-    text-align: center;
-}
-
-p {
-    color: $cor-texto;
-    font-size: 18px;
-}
+h1 {color:$cor-principal;text-align: center;}
+h2 {color: darkgreen; text-align: center;}
+p {color: $cor-texto; font-size: 18px;}
 
 // .container {
 //     width: 600px;
@@ -25,3 +14,4 @@ p {
 //     border-radius: 10px;
 //     background-color: #f8f9fa;
 // }
+
