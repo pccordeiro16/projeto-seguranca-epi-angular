@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { inject } from '@angular/core';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
-import { EpiService } from '../epi.service';
+import { EpiService } from '../epi';
 
 @Component({
   selector: 'app-epi-form',
